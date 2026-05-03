@@ -2,6 +2,10 @@
 
 A modern, fully dynamic programming-book library and store, built with **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS** and **MySQL**. Every visible piece of content — text, image, banner, testimonial, team member — is editable from the bundled admin panel without touching code.
 
+## Live Demo
+
+[https://unrivaled-khapse-5b66b8.netlify.app/](https://unrivaled-khapse-5b66b8.netlify.app/)
+
 ## Highlights
 
 - **Public site:** home, books library, categories, free resources, about, contact, cart, login, register, privacy, terms — all server-rendered, all driven by MySQL.
